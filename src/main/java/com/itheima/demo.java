@@ -8,6 +8,7 @@ public class demo {
         System.out.println("master1234"+name);
         System.out.println("hot-fix123"+name);
         System.out.println("Push test"+name);
+        System.out.println("pull test"+name);
 
         return "Hello "+name;
     }
